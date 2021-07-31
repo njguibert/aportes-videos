@@ -1,24 +1,48 @@
-:Repo ordenado con los videos
+Repo ordenado con los videos
 =============
 Repositorio con las referencias a todos los videos publicados:
 - Pruebas de conceptos (poc).
 - Etc,etc,etc.
 - Superando las 200hrs de videos.
 
-
-
-
 # Lista de Videos
+1. [Conceptos generales Seguridad Informática](#id1).
+2. [TIPY](#id2).
+3. Pruebas de Conceptos.
+
+<div id='id1' />
+# Conceptos generales Seguridad Informática
+
+
+## 1- Presentacion
+
+Contenido educativo para entender conceptos básicos en el mundo de la computación para todo aquel usuario.
+[Link al Video](https://www.youtube.com/watch?v=np_PfMwN9KQ)
+
+## 2- Introducción
+Contenido educativo para entender conceptos básicos en el mundo de la computación para todo aquel usuario.
+[Link al Video](https://www.youtube.com/watch?v=cc87EwWJ84Q)
+
+## 3- Instalación W10
+Contenido educativo para entender conceptos básicos en el mundo de la computación para todo aquel usuario.
+[Link al Video](https://www.youtube.com/watch?v=vcB6jvl4sjM)
+
+## 4- Ejemplo de lo que NO hay que ejecutar
+Contenido educativo para entender conceptos básicos en el mundo de la computación para todo aquel usuario.
+[Link al Video](https://www.youtube.com/watch?v=cSzd-4F-eo4)
+
+## 5- Esto puede estar haciendo tu teclado
+Contenido educativo para entender conceptos básicos en el mundo de la computación para todo aquel usuario.
+[Link al Video](https://www.youtube.com/watch?v=2O4xooG5oHY)
 
 
 
-[TOCM]
+# TIPY<a name="id2"></a>
 
-[TOC]
+## Arquitectura del Computador:
 
-#TIPY
-##Arquitectura del Computador:
-###Edicion 2020
+### Edicion 2020
+
 1. [Ejercicios Detección y corrección de errores](https://www.youtube.com/watch?v=rL-gWppCmUE)
 2. [Códigos y Errores](https://www.youtube.com/watch?v=zrobC7GiiXo)
 3. [Representación Interna de datos](https://www.youtube.com/watch?v=WJOQBZyj_wE)
@@ -41,7 +65,7 @@ Repositorio con las referencias a todos los videos publicados:
 21. [x86 Parte 1](https://www.youtube.com/watch?v=2PyB2OE2qwY)
 22. [x86 Parte 2](https://www.youtube.com/watch?v=ytEWBum2454)
 
-###Edicion 2021
+### Edicion 2021
 1. [Presentación](https://www.youtube.com/watch?v=m_OqzYMxCOE)
 2. [Sistemas de Numeración](https://www.youtube.com/watch?v=5TGPMnHQIAE)
 3. [Códigos y Errores](https://www.youtube.com/watch?v=h1VqHHYFqwE)
@@ -66,8 +90,8 @@ Repositorio con las referencias a todos los videos publicados:
 23. [Arduino Parte 4](https://www.youtube.com/watch?v=fOzOGYen8nc)
 24. [Instalaciones de Windows 10 en Virtualbox y VHD](https://www.youtube.com/watch?v=wKWoWm3SD_Y)
 
-##Sistemas Operativos
-###Edicion 2021
+## Sistemas Operativos
+### Edicion 2021
 1. []()
 2. []()
 3. []()
@@ -88,7 +112,7 @@ Repositorio con las referencias a todos los videos publicados:
 19. []()
 20. []()
 
-###Edicion 2020
+### Edicion 2020
 1. [Presentacion](https://www.youtube.com/watch?v=Tyi_FrBXb9k)
 2. [Introduccion a los SO](https://www.youtube.com/watch?v=XpSBlriTvuM)
 3. [Estructuras de SO](https://www.youtube.com/watch?v=icKy1N64cQ4)
@@ -105,8 +129,8 @@ Repositorio con las referencias a todos los videos publicados:
 15. [Servicios de Red - httpd](https://www.youtube.com/watch?v=jTS3vc6OjKA)
 16. [Shell scripts 1](https://www.youtube.com/watch?v=gZYppN07yBk)
 
-##Administracion de Infraestructuras I
-###Edicion 2021
+## Administracion de Infraestructuras I
+### Edicion 2021
 1. []()
 2. []()
 3. []()
@@ -127,7 +151,7 @@ Repositorio con las referencias a todos los videos publicados:
 19. []()
 20. []()
 
-###Edicion 2020
+### Edicion 2020
 1. [Presentacion](https://www.youtube.com/watch?v=pcOp5oJ7uCA)
 2. [Repaso](https://www.youtube.com/watch?v=3ovdUGOTTqk)
 3. [Compilando y configurando file server independiente Samba](https://www.youtube.com/watch?v=vI1PzJ7Vjyg)
@@ -149,8 +173,8 @@ Repositorio con las referencias a todos los videos publicados:
 20. []()
 
 
-##Administracion de Infraestructuras II
-###Edicion 2021
+## Administracion de Infraestructuras II
+### Edicion 2021
 1. [Presentación y repaso](https://www.youtube.com/watch?v=OHikzUTYIoo)
 2. [Switching](https://www.youtube.com/watch?v=RgPWbd0Al8Q)
 3. [Switching-Practica](https://www.youtube.com/watch?v=pb28XIDJutg)
@@ -178,8 +202,8 @@ Repositorio con las referencias a todos los videos publicados:
 25. [Introducción al soporte de clientes Windows Parte 1](https://www.youtube.com/watch?v=Z3buZb6J55U)
 26. [Introducción al soporte de clientes Windows Parte 2](https://www.youtube.com/watch?v=87jdTWzBmiI)
 
-##Introducción a los Sistemas de Control
-###Edicion 2020
+## Introducción a los Sistemas de Control
+### Edicion 2020
 1. [Presentación](https://www.youtube.com/watch?v=45mzKBsxvSI)
 2. [Introduccion](https://www.youtube.com/watch?v=Zt4xtGYg2gw)
 3. [Iot Parte 1](https://www.youtube.com/watch?v=A_CLHHwV1so)
@@ -193,7 +217,7 @@ Repositorio con las referencias a todos los videos publicados:
 12. [PLC Parte 1](https://www.youtube.com/watch?v=epjqtRiDQUg)
 13. [PLC Parte 2](https://www.youtube.com/watch?v=_M51mB6rRXs)
 
-###Edicion 2021
+### Edicion 2021
 1. []()
 2. []()
 3. []()
@@ -213,48 +237,44 @@ Repositorio con las referencias a todos los videos publicados:
 18. []()
 19. []()
 20. []()
-#Conceptos generales Seguridad Informática
-##1- Presentacion
-Contenido educativo para entender conceptos básicos en el mundo de la computación para todo aquel usuario.
-[Link al Video](https://www.youtube.com/watch?v=np_PfMwN9KQ)
-##2- Introducción
-Contenido educativo para entender conceptos básicos en el mundo de la computación para todo aquel usuario.
-[Link al Video](https://www.youtube.com/watch?v=cc87EwWJ84Q)
-##3- Instalación W10
-Contenido educativo para entender conceptos básicos en el mundo de la computación para todo aquel usuario.
-[Link al Video](https://www.youtube.com/watch?v=vcB6jvl4sjM)
-##4- Ejemplo de lo que NO hay que ejecutar
-Contenido educativo para entender conceptos básicos en el mundo de la computación para todo aquel usuario.
-[Link al Video](https://www.youtube.com/watch?v=cSzd-4F-eo4)
-##5- Esto puede estar haciendo tu teclado
-Contenido educativo para entender conceptos básicos en el mundo de la computación para todo aquel usuario.
-[Link al Video](https://www.youtube.com/watch?v=2O4xooG5oHY)
-#Pruebas de Conceptos
-##1-Control de un Motor Unipolar con Arduino
+
+# Pruebas de Conceptos
+## 1-Control de un Motor Unipolar con Arduino
 Interfaz realizada en Java, para el control de un motor de paso a paso (unipolar) con una Arduino Leonardo. El motor fue sacado de una antigua impresora matricial Epson.
+
 [Link al Video](https://www.youtube.com/watch?v=qm0Ki6l-SEs)
-##2-Joystick NES controlado por una Arduino Leonardo
+## 2-Joystick NES controlado por una Arduino Leonardo
 Utilizando un Joystick de NES como interfaz de entrada para enviar senales al PC.
+
 [Link al Video](https://www.youtube.com/watch?v=16-_TYZkkfg)
-##3-Motor de Corriente Continua al descubierto
+## 3-Motor de Corriente Continua al descubierto
 Motor de corriente continua reciclado de una impresora de chorro a tinta.
+
 [Link al Video](https://www.youtube.com/watch?v=U5ZNTUII4y4)
-##4-Generador con un motor de corriente continua
+## 4-Generador con un motor de corriente continua
 Motor reciclado de una impresora de chorro a tinta.
+
 [Link al Video](https://www.youtube.com/watch?v=MZ2n8xFqsDM)
-##5-Puerta automática PLC
+## 5-Puerta automática PLC
 El Hola Mundo del LogixPro, un excelente simulador para los que arranquen con la programación de PLC.
+
 [Link al Video](https://www.youtube.com/watch?v=KevifV00aQw)
-##6-Ipxe + Raspberry PI + Tftp + Http boot
+
+## 6-Ipxe + Raspberry PI + Tftp + Http boot
 El equipo bootea por pxe, se inyecta en ram el firmware Ipxe para elevar el booteo hasta el protocolo HTTP ubicado en un raspbian desde una raspberry PI. A unos cuantos km de distancia la raspberry PI server y el cliente que bootea....
+
 [Link al Video](https://www.youtube.com/watch?v=hiGahgmgp_g)
-##7-Plc Tsx Nano Hola Mundo
+
+## 7-Plc Tsx Nano Hola Mundo
 Ejemplo muy sencillo de un PLC, dos pulsadores para accionar un Rele que deja pasar alimentación a una lampara de 220v.
 [Link al Video](https://www.youtube.com/watch?v=QlVfJjAn8II)
-##8-Prusa i3
+
+## 8-Prusa i3
 Probando el Fusor en la prusa.
+
 [Link al Video](https://www.youtube.com/watch?v=cA2YHw7e8-k)
-##9-Prusa I3 - Primera Impresion
+## 9-Prusa I3 - Primera Impresion
 Prusa Iteracion 3 realizando su primera impresión, con un fusor de 0.4mm y como filamento ABS 3mm.
 El firmware utilizado es Marlin.
+
 [Link al Video](https://www.youtube.com/watch?v=eI68wljk3h8)
