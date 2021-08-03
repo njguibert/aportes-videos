@@ -6,13 +6,13 @@ Repositorio con las referencias a todos los videos publicados:
 - Superando las 200hrs de videos.
 
 # Lista de Videos
-1. [Conceptos generales Seguridad Informática](#id1).
-2. [TIPY](#id2).
-3. Pruebas de Conceptos.
+1. [Conceptos generales Seguridad Informática.](#id1)
+2. [TIPY.](#id2)
+3. [Pruebas de Conceptos.](#id3)
 
 <div id='id1' />
-# Conceptos generales Seguridad Informática
 
+# Conceptos generales Seguridad Informática
 
 ## 1- Presentacion
 
@@ -36,8 +36,9 @@ Contenido educativo para entender conceptos básicos en el mundo de la computaci
 [Link al Video](https://www.youtube.com/watch?v=2O4xooG5oHY)
 
 
+<div id='id2' />
 
-# TIPY<a name="id2"></a>
+# TIPY
 
 ## Arquitectura del Computador:
 
@@ -92,8 +93,8 @@ Contenido educativo para entender conceptos básicos en el mundo de la computaci
 
 ## Sistemas Operativos
 ### Edicion 2021
-1. []()
-2. []()
+1. [Presentación](https://youtu.be/kFo7dl6KXFg)
+2. [Introduccion a los SO](https://www.youtube.com/watch?v=XpSBlriTvuM)
 3. []()
 4. []()
 5. []()
@@ -131,7 +132,7 @@ Contenido educativo para entender conceptos básicos en el mundo de la computaci
 
 ## Administracion de Infraestructuras I
 ### Edicion 2021
-1. []()
+1. [Presentación](https://youtu.be/YlzcyCRAS1Y)
 2. []()
 3. []()
 4. []()
@@ -237,6 +238,8 @@ Contenido educativo para entender conceptos básicos en el mundo de la computaci
 18. []()
 19. []()
 20. []()
+
+<div id='id3' />
 
 # Pruebas de Conceptos
 ## 1-Control de un Motor Unipolar con Arduino
