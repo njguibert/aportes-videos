@@ -219,7 +219,7 @@ Contenido educativo para entender conceptos básicos en el mundo de la computaci
 13. [PLC Parte 2](https://www.youtube.com/watch?v=_M51mB6rRXs)
 
 ### Edicion 2021
-1. []()
+1. [Presentación](https://www.youtube.com/watch?v=3MEgR8hf9aA)
 2. []()
 3. []()
 4. []()
