@@ -94,10 +94,10 @@ Contenido educativo para entender conceptos básicos en el mundo de la computaci
 ## Sistemas Operativos
 ### Edicion 2021
 1. [Presentación](https://youtu.be/kFo7dl6KXFg)
-2. [Introduccion a los SO](https://www.youtube.com/watch?v=XpSBlriTvuM)
-3. []()
-4. []()
-5. []()
+2. [Introducción a los SO](https://www.youtube.com/watch?v=XpSBlriTvuM)
+3. [Introducción a la CLI en Windows/Linux [Practico]](https://www.youtube.com/watch?v=h5o-PzrEZ2s)
+4. [Estructuras de SO](https://www.youtube.com/watch?v=icKy1N64cQ4)
+5. [Diseño de un SO](https://www.youtube.com/watch?v=xcTLFWoS2gk)
 6. []()
 7. []()
 8. []()
@@ -133,7 +133,7 @@ Contenido educativo para entender conceptos básicos en el mundo de la computaci
 ## Administracion de Infraestructuras I
 ### Edicion 2021
 1. [Presentación](https://youtu.be/YlzcyCRAS1Y)
-2. []()
+2. [Repaso de entornos Linux](https://www.youtube.com/watch?v=GKG74EXWafI)
 3. []()
 4. []()
 5. []()
@@ -219,7 +219,7 @@ Contenido educativo para entender conceptos básicos en el mundo de la computaci
 13. [PLC Parte 2](https://www.youtube.com/watch?v=_M51mB6rRXs)
 
 ### Edicion 2021
-1. []()
+1. [Presentación](https://www.youtube.com/watch?v=3MEgR8hf9aA)
 2. []()
 3. []()
 4. []()
