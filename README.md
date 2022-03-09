@@ -154,8 +154,8 @@ Contenido educativo para entender conceptos básicos en el mundo de la computaci
 20. [Samba PDC Servidores Miembros y consultas LDAP](https://www.youtube.com/watch?v=ZtrLrZ7wG_E)
 21. [DNS](https://www.youtube.com/watch?v=mIpXhz4LLeM)
 22. [Monitorización](https://www.youtube.com/watch?v=TeQpGBW8tA0)
-23. []()
-24. []()
+23. [Ejemplo Zabbix](https://www.youtube.com/watch?v=p2_WB7AM-Dk)
+24. [Compilar Nginx con soporte ldap y resolución de problemas](https://www.youtube.com/watch?v=uUaeDv2eEl0)
 
 ### Edicion 2020
 1. [Presentacion](https://www.youtube.com/watch?v=pcOp5oJ7uCA)
