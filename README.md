@@ -180,6 +180,10 @@ Contenido educativo para entender conceptos básicos en el mundo de la computaci
 
 
 ## Administracion de Infraestructuras II
+### Edicion 2022
+1. [Presentación](https://youtu.be/wGRvdkvAfSI)
+2. [Repaso Parte A](https://youtu.be/F3yw9mjqQ3o)
+
 ### Edicion 2021
 1. [Presentación y repaso](https://www.youtube.com/watch?v=OHikzUTYIoo)
 2. [Switching](https://www.youtube.com/watch?v=RgPWbd0Al8Q)
