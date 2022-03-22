@@ -42,29 +42,9 @@ Contenido educativo para entender conceptos básicos en el mundo de la computaci
 
 ## Arquitectura del Computador:
 
-### Edicion 2020
+### Edicion 2022
 
-1. [Ejercicios Detección y corrección de errores](https://www.youtube.com/watch?v=rL-gWppCmUE)
-2. [Códigos y Errores](https://www.youtube.com/watch?v=zrobC7GiiXo)
-3. [Representación Interna de datos](https://www.youtube.com/watch?v=WJOQBZyj_wE)
-4. [Representacion Interna de datos - Ejercicios ](https://www.youtube.com/watch?v=ni9lpo0oCYI)
-5. [Álgebra de Boole](https://www.youtube.com/watch?v=rUbm636lUNE)
-6. [Álgebra de Boole PRACTICO](https://www.youtube.com/watch?v=Mk5L86vnQZk)
-7. [Hardware hacking (teclado ps2)](https://www.youtube.com/watch?v=YJuRxXB2nIs)
-8. [Circuitos Combinatorios](https://www.youtube.com/watch?v=I9ZC_zR5vr0)
-9. [Memorias ROM](https://www.youtube.com/watch?v=Kme2tTVpTYw)
-11. [Circuitos secuenciales - Flip Flops](https://www.youtube.com/watch?v=HYuUfeIrFCM)
-12. [Circuitos secuenciales - AFD](https://www.youtube.com/watch?v=ovFdqq1weIg)
-13. [Cuestionario 1 y 2 - Soluciones](https://www.youtube.com/watch?v=W1z0eDqE-9A)
-14. [Cuestionario 3](https://www.youtube.com/watch?v=a6hzhKa2bWo)
-15. [RAM](https://www.youtube.com/watch?v=85ZYHQ3cDtg)
-16. [Arquitectura de Von Neumann](https://www.youtube.com/watch?v=Zzk3Nzgu8jA)
-17. [Organizacion del CPU](https://www.youtube.com/watch?v=dT6glTXkgcM)
-18. [Lenguajes y compilación](https://www.youtube.com/watch?v=ts7JbRapkz4)
-19. [Programacion a bajo nivel - Ejercicio 1](https://www.youtube.com/watch?v=4G7O2xgwG0c)
-20. [Entrada / Salida](https://www.youtube.com/watch?v=TlMvpUJSV0c)
-21. [x86 Parte 1](https://www.youtube.com/watch?v=2PyB2OE2qwY)
-22. [x86 Parte 2](https://www.youtube.com/watch?v=ytEWBum2454)
+1. [Sistemas de Numeración](https://www.youtube.com/watch?v=PkjULtxKVMs)
 
 ### Edicion 2021
 1. [Presentación](https://www.youtube.com/watch?v=m_OqzYMxCOE)
@@ -90,6 +70,30 @@ Contenido educativo para entender conceptos básicos en el mundo de la computaci
 22. [Arduino Parte 3](https://www.youtube.com/watch?v=wBODrwyD0Uw)
 23. [Arduino Parte 4](https://www.youtube.com/watch?v=fOzOGYen8nc)
 24. [Instalaciones de Windows 10 en Virtualbox y VHD](https://www.youtube.com/watch?v=wKWoWm3SD_Y)
+
+### Edicion 2020
+
+1. [Ejercicios Detección y corrección de errores](https://www.youtube.com/watch?v=rL-gWppCmUE)
+2. [Códigos y Errores](https://www.youtube.com/watch?v=zrobC7GiiXo)
+3. [Representación Interna de datos](https://www.youtube.com/watch?v=WJOQBZyj_wE)
+4. [Representacion Interna de datos - Ejercicios ](https://www.youtube.com/watch?v=ni9lpo0oCYI)
+5. [Álgebra de Boole](https://www.youtube.com/watch?v=rUbm636lUNE)
+6. [Álgebra de Boole PRACTICO](https://www.youtube.com/watch?v=Mk5L86vnQZk)
+7. [Hardware hacking (teclado ps2)](https://www.youtube.com/watch?v=YJuRxXB2nIs)
+8. [Circuitos Combinatorios](https://www.youtube.com/watch?v=I9ZC_zR5vr0)
+9. [Memorias ROM](https://www.youtube.com/watch?v=Kme2tTVpTYw)
+11. [Circuitos secuenciales - Flip Flops](https://www.youtube.com/watch?v=HYuUfeIrFCM)
+12. [Circuitos secuenciales - AFD](https://www.youtube.com/watch?v=ovFdqq1weIg)
+13. [Cuestionario 1 y 2 - Soluciones](https://www.youtube.com/watch?v=W1z0eDqE-9A)
+14. [Cuestionario 3](https://www.youtube.com/watch?v=a6hzhKa2bWo)
+15. [RAM](https://www.youtube.com/watch?v=85ZYHQ3cDtg)
+16. [Arquitectura de Von Neumann](https://www.youtube.com/watch?v=Zzk3Nzgu8jA)
+17. [Organizacion del CPU](https://www.youtube.com/watch?v=dT6glTXkgcM)
+18. [Lenguajes y compilación](https://www.youtube.com/watch?v=ts7JbRapkz4)
+19. [Programacion a bajo nivel - Ejercicio 1](https://www.youtube.com/watch?v=4G7O2xgwG0c)
+20. [Entrada / Salida](https://www.youtube.com/watch?v=TlMvpUJSV0c)
+21. [x86 Parte 1](https://www.youtube.com/watch?v=2PyB2OE2qwY)
+22. [x86 Parte 2](https://www.youtube.com/watch?v=ytEWBum2454)
 
 ## Sistemas Operativos
 ### Edicion 2021
@@ -174,10 +178,6 @@ Contenido educativo para entender conceptos básicos en el mundo de la computaci
 15. [Samba PDC - Active Directory 1](https://www.youtube.com/watch?v=ksf2EBmtsMQ)
 16. [Samba PDC - Active Directory 2](https://www.youtube.com/watch?v=rVDIViTPkkE)
 17. [Samba PDC - Active Directory 2](https://www.youtube.com/watch?v=R5ifwbDYLkk)
-18. []()
-19. []()
-20. []()
-
 
 ## Administracion de Infraestructuras II
 ### Edicion 2022
@@ -235,18 +235,6 @@ Contenido educativo para entender conceptos básicos en el mundo de la computaci
 5. [RGB, 7 segmentos, lcd, teclados](https://www.youtube.com/watch?v=O6q81NBsyMg)
 6. [Motores](https://www.youtube.com/watch?v=d5LJ_B3HIDY)
 7. [Sensores, ESP8266, Introducción a los PLC](https://www.youtube.com/watch?v=dJUxLTu6POA)
-8. []()
-9. []()
-11. []()
-12. []()
-13. []()
-14. []()
-15. []()
-16. []()
-17. []()
-18. []()
-19. []()
-20. []()
 
 <div id='id3' />
 
