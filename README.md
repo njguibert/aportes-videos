@@ -9,6 +9,7 @@ Repositorio con las referencias a todos los videos publicados:
 1. [Conceptos generales Seguridad Informática.](#id1)
 2. [TIPY.](#id2)
 3. [Pruebas de Conceptos.](#id3)
+4. [Recursos Varios.](#id4)
 
 <div id='id1' />
 
@@ -278,3 +279,41 @@ Prusa Iteracion 3 realizando su primera impresión, con un fusor de 0.4mm y como
 El firmware utilizado es Marlin.
 
 [Link al Video](https://www.youtube.com/watch?v=eI68wljk3h8)
+
+<div id='id4' />
+
+# Recursos Varios
+
+## 1- Gamificando con Minecraft
+Primer integración aplicando gamificación con Minecraft. Realizando http request desde dentro del mundo virtual hacia una api. Esta api sera la encargada de distribuir ese evento al microcontrolador que nosotros quieramos.
+
+[Link al Video](https://www.youtube.com/watch?v=Xx8Rzv_0AZ0)
+
+## 2- Fileserver Standalone minimalista con SMB/CIFS y NFS.
+Instalación y configuración de un servidor independiente SMB&CIFS y NFS.
+
+[Link al Video](https://www.youtube.com/watch?v=KINP93RMReo)
+
+## 3- Instalacion de Proxmox en Proxmox Virtualización Anidada
+Ejemplo de uso de la virtualización anidada, donde podemos instalar una maquina virtual, dentro de un hipervisor(proxmox) virtual, que esta dentro de una virtual en otro hipervisor.
+Resumen: Debian dentro de un proxmox que esta dentro de otro proxmox.
+
+[Link al Video](https://www.youtube.com/watch?v=6f1-8bekSSI)
+
+## 4- Creando mi primera instancia en Oracle Cloud Infraestructure (OCI)
+Creación de una instancia de Oracle Linux en el proveedor de cloud OCI, útilizando el servicio Free Tier.
+
+[Link al Video](https://www.youtube.com/watch?v=GSj842j0y_4)
+
+## 5- Instalación Debian 11
+Proceso de instalación de Debian 11 en Virtualbox.
+
+[Link al Video](https://www.youtube.com/watch?v=aO5ltweP848)
+
+## 6- Instalación Oracle Linux 8.6
+Proceso de instalación de Debian 11 en Virtualbox.
+
+[Link al Video](https://www.youtube.com/watch?v=G9CPw6rKz9A)
+
+
+
