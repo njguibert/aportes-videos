@@ -36,6 +36,10 @@ Contenido educativo para entender conceptos básicos en el mundo de la computaci
 Contenido educativo para entender conceptos básicos en el mundo de la computación para todo aquel usuario.
 [Link al Video](https://www.youtube.com/watch?v=2O4xooG5oHY)
 
+## 6- Prueba de concepto Malware - Formatear C:
+Prueba de concepto detallada sobre la ejecución de un malware en sistemas operativos Windows utilizando un contexto privilegiado. Donde remotamente se puede enviar la orden para dañar el disco completamente.
+[Link al Video](https://youtu.be/o3W7jVRqH4o)
+
 
 <div id='id2' />
 
@@ -315,5 +319,39 @@ Proceso de instalación de Debian 11 en Virtualbox.
 
 [Link al Video](https://www.youtube.com/watch?v=G9CPw6rKz9A)
 
+## 7- Implementando un cluster HA de kubernetes on-prem con Pulumi y Talos Linux
+Talos Linux es una distribución de linux pensada para implementar kubernetes(k8s), es asi que solo nos podemos comunicar con el sistema operativo mediante una api. No hay ssh, cli, ni nada. Casi todo el filesystem es readonly, con lo cual funciona muy muy bien y no consume nada de recursos.
 
+Desde cero se implementa un cluster de alta disponibilidad (HA) de k8s en proxmox utilizando Pulumi como IoC y Talos. En cuestion de minutos podemos tener un cluster 100% operativo listo para implementar en PROD!
 
+Para futuro investigar:
+1) Implementación de Talos mediante ipxe.
+2) Ceph como storage.
+3) Metallb en modo shared layer 2 y bgp.
+
+[Link al Video](https://youtu.be/u84eteJ_9ps)
+
+## 8- Gitops 01 - Ejemplo básico de CICD para bash scripts.
+Utilizamos un repositorio git para alojar nuestros scripts para que siempre se encuentren actualizados en nuestros equipos. 
+Luego desde un entorno de desarrollo, generamos o modificamos scripts y con un simple push al repositorio el pipeline los dejara en el destino que elegimos.
+Ejemplo CICD super sencillo con bash y gitlab runners.
+
+[Link al Video](https://youtu.be/FatkcbLn3Y0)
+
+## 9- Instalar Zabbix 6.4 HA en k8s.
+A partir de una maquina virtual con linux, se instala la distro de kubernetes microk8s. Para implementar Zabbix 6.4 utilizando el manifiesto oficial:
+Link: https://github.com/zabbix/zabbix-docker
+
+Por último se modifica el manifiesto para implementar Zabbix en HA (High availability).
+
+[Link al Video](https://youtu.be/kbDMZJtNXRo)
+
+## 10- Creación de cluster de k8s mediante Terraform+Bootp+PXE
+Bootstrap de cluster de k8s con Talos Linux, aprovisionando la instalación del sistema operativo y configuración mediante arranque por red.
+
+[Link al Video](https://youtu.be/0yeW9OG3OyA)
+
+## 11- Compilación e Instalación de Zabbix en Oracle / Compiling and installing Zabbix in Oracle.
+Prueba de concepto del proceso de compilación e instalación del software de monitoreo Zabbix persistiendo la información en una base de datos Oracle.
+
+[Link al Video](https://youtu.be/iwYHEDkwmUE)
