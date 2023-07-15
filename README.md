@@ -1,9 +1,9 @@
 Repo ordenado con los videos
 =============
-Repositorio con las referencias a todos los videos publicados:
+Repositorio con las referencias a todos los videos publicados en mi canal de youtube:
 - Pruebas de conceptos (poc).
-- Etc,etc,etc.
-- Superando las 200hrs de videos.
+- Clases teóricas y prácticas.
+- Superando las 300hrs de videos.
 
 # Lista de Videos
 1. [Conceptos generales Seguridad Informática.](#id1)
